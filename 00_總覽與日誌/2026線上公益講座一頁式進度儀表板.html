@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>2026 線上公益講座年度進度儀表板</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f6f8fb;
+      color: #1f2933;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+      line-height: 1.65;
+    }
+    main {
+      width: min(920px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 48px 0;
+    }
+    section {
+      border: 1px solid #d8e0ea;
+      border-radius: 8px;
+      background: #ffffff;
+      box-shadow: 0 18px 40px rgba(31, 41, 51, .09);
+      padding: 28px;
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: clamp(26px, 3vw, 40px);
+      line-height: 1.18;
+      letter-spacing: 0;
+    }
+    h2 {
+      margin: 24px 0 8px;
+      font-size: 20px;
+    }
+    p {
+      margin: 8px 0;
+    }
+    code {
+      padding: 2px 5px;
+      border-radius: 5px;
+      background: #eef2f7;
+    }
+    .notice {
+      border-left: 4px solid #b42318;
+      border-radius: 8px;
+      background: #ffe4e1;
+      padding: 12px 14px;
+      font-weight: 750;
+    }
+    ol {
+      padding-left: 22px;
+    }
+    li {
+      margin: 8px 0;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section>
+      <h1>2026 線上公益講座年度進度儀表板</h1>
+      <p class="notice">本機 HTML 版已停用，避免使用快照資料造成進度誤判。</p>
+      <p>正式自動更新版請使用 Apps Script 網頁版，讓 HTML 在 Google 授權環境中即時讀取「雙周講師SOP」。</p>
+
+      <h2>目前已確認的問題</h2>
+      <p>本機 Node 腳本使用 Google Sheets CSV 匯出網址讀取資料；私有試算表不允許匿名 CSV 讀取，所以會失敗。這不是講座資料不存在，而是權限讀取方式錯誤。</p>
+
+      <h2>正式方案</h2>
+      <ol>
+        <li>打開 Google 試算表「2026公益演講SOP」。</li>
+        <li>進入「擴充功能」→「Apps Script」。</li>
+        <li>貼上 <code>02_自動化工具/dashboard_web_app.gs</code> 的內容。</li>
+        <li>部署為網頁應用程式。</li>
+        <li>開啟部署網址，即可看到即時讀取「雙周講師SOP」的年度進度儀表板。</li>
+      </ol>
+
+      <h2>追蹤月份規則</h2>
+      <p>1-5 月已完成；從 6 月到 12 月都屬於今年度仍需追蹤月份，因此追蹤月份應為 7 個月。</p>
+    </section>
+  </main>
+</body>
+</html>

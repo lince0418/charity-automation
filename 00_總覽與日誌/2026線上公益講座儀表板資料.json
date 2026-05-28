@@ -1,0 +1,500 @@
+{
+  "generatedAt": "2026-05-28 16:23:42",
+  "sourceLabel": "本機「雙周講師SOP」快照 last_snapshot.json",
+  "sourceWarning": "Google 試算表「雙周講師SOP」即時讀取失敗，已改用本機快照：fetch failed",
+  "rules": {
+    "sheetId": "1GXGEDEoWd0EwYLKrR9Jx6lhubvtzP1SYkT8ZyAyQiCA",
+    "gid": "997862433",
+    "sheetName": "雙周講師SOP",
+    "owner": "孔星元",
+    "completedBeforeMonth": 6,
+    "exceptionField": "圖片網址失效、群組未收到、文案需重改等問題"
+  },
+  "validation": {
+    "missingColumns": [],
+    "completeRows": 12,
+    "totalRows": 12
+  },
+  "summary": {
+    "completedMonths": 5,
+    "reviewMonths": 1,
+    "eventCount": 12,
+    "progressPercent": 42
+  },
+  "months": [
+    {
+      "month": 1,
+      "monthLabel": "1 月",
+      "folder": "協會演講/2026年/一月份",
+      "events": [
+        {
+          "date": "2026/01/08",
+          "month": 1,
+          "day": 8,
+          "type": "教練講座",
+          "speaker": "葉素秋、柯翠菱",
+          "title": "理事長、副理事長",
+          "topic": "2026年 NLP教練新未來"
+        },
+        {
+          "date": "2026/01/22",
+          "month": 1,
+          "day": 22,
+          "type": "成功人士",
+          "speaker": "陳志鵬",
+          "title": "亞達亞國際有限公司 負責人",
+          "topic": "從睡公園到公司總經理，成功者的秘訣"
+        }
+      ],
+      "topics": "教練講座：2026年 NLP教練新未來<br>成功人士：從睡公園到公司總經理，成功者的秘訣",
+      "speakers": "葉素秋、柯翠菱：理事長、副理事長<br>陳志鵬：亞達亞國際有限公司 負責人",
+      "imageStatus": {
+        "kind": "done",
+        "text": "已完成：圖片與發送素材完成"
+      },
+      "copyStatus": {
+        "kind": "done",
+        "text": "已完成：文案、發送、上架完成"
+      },
+      "sendingStatus": {
+        "kind": "done",
+        "text": "已完成：正式發送完成"
+      },
+      "publishStatus": {
+        "kind": "done",
+        "text": "已完成：上架完成"
+      },
+      "owner": "孔星元",
+      "exception": "目前無異常紀錄",
+      "overallStatus": {
+        "kind": "done",
+        "text": "完成"
+      }
+    },
+    {
+      "month": 2,
+      "monthLabel": "2 月",
+      "folder": "協會演講/2026年/二月份",
+      "events": [
+        {
+          "date": "2026/02/12",
+          "month": 2,
+          "day": 12,
+          "type": "教練講座",
+          "speaker": "朱欣梅",
+          "title": "協會理事",
+          "topic": "前世回溯不是神秘，是你潛意識在替人生解題、用「因」理解關係、自由表達、與內在和解"
+        },
+        {
+          "date": "2026/02/26",
+          "month": 2,
+          "day": 26,
+          "type": "成功人士",
+          "speaker": "張嘉玲",
+          "title": "永慶不動產超級業務專員",
+          "topic": "不動產交易稅制解析"
+        }
+      ],
+      "topics": "教練講座：前世回溯不是神秘，是你潛意識在替人生解題、用「因」理解關係、自由表達、與內在和解<br>成功人士：不動產交易稅制解析",
+      "speakers": "朱欣梅：協會理事<br>張嘉玲：永慶不動產超級業務專員",
+      "imageStatus": {
+        "kind": "done",
+        "text": "已完成：圖片與發送素材完成"
+      },
+      "copyStatus": {
+        "kind": "done",
+        "text": "已完成：文案、發送、上架完成"
+      },
+      "sendingStatus": {
+        "kind": "done",
+        "text": "已完成：正式發送完成"
+      },
+      "publishStatus": {
+        "kind": "done",
+        "text": "已完成：上架完成"
+      },
+      "owner": "孔星元",
+      "exception": "目前無異常紀錄",
+      "overallStatus": {
+        "kind": "done",
+        "text": "完成"
+      }
+    },
+    {
+      "month": 3,
+      "monthLabel": "3 月",
+      "folder": "協會演講/2026年/三月份",
+      "events": [
+        {
+          "date": "2026/03/12",
+          "month": 3,
+          "day": 12,
+          "type": "教練講座",
+          "speaker": "蕭世華",
+          "title": "協會理事",
+          "topic": "催眠案例分享-人生的另類解法"
+        },
+        {
+          "date": "2026/03/26",
+          "month": 3,
+          "day": 26,
+          "type": "成功人士",
+          "speaker": "邱凡鳴",
+          "title": "法蘭克法律事務所負責人",
+          "topic": "股民必修課：別讓「稅」與「費」吃掉你的股息！"
+        }
+      ],
+      "topics": "教練講座：催眠案例分享-人生的另類解法<br>成功人士：股民必修課：別讓「稅」與「費」吃掉你的股息！",
+      "speakers": "蕭世華：協會理事<br>邱凡鳴：法蘭克法律事務所負責人",
+      "imageStatus": {
+        "kind": "done",
+        "text": "已完成：圖片與發送素材完成"
+      },
+      "copyStatus": {
+        "kind": "done",
+        "text": "已完成：文案、發送、上架完成"
+      },
+      "sendingStatus": {
+        "kind": "done",
+        "text": "已完成：正式發送完成"
+      },
+      "publishStatus": {
+        "kind": "done",
+        "text": "已完成：上架完成"
+      },
+      "owner": "孔星元",
+      "exception": "目前無異常紀錄",
+      "overallStatus": {
+        "kind": "done",
+        "text": "完成"
+      }
+    },
+    {
+      "month": 4,
+      "monthLabel": "4 月",
+      "folder": "協會演講/2026年/四月份",
+      "events": [
+        {
+          "date": "2026/04/09",
+          "month": 4,
+          "day": 9,
+          "type": "教練講座",
+          "speaker": "柯瑞龍",
+          "title": "社團法人中華國際NLP教練研究發展教育協會 創會常務理事",
+          "topic": "系統排列-帶您透視表象，解鎖人生僵局"
+        },
+        {
+          "date": "2026/04/23",
+          "month": 4,
+          "day": 23,
+          "type": "成功人士",
+          "speaker": "黃再明",
+          "title": "協毅工程行負責人",
+          "topic": "(創業歷程 - 磁磚工程)磁磚匠心～從磁磚學徒到老闆的事業觀"
+        }
+      ],
+      "topics": "教練講座：系統排列-帶您透視表象，解鎖人生僵局<br>成功人士：(創業歷程 - 磁磚工程)磁磚匠心～從磁磚學徒到老闆的事業觀",
+      "speakers": "柯瑞龍：社團法人中華國際NLP教練研究發展教育協會 創會常務理事<br>黃再明：協毅工程行負責人",
+      "imageStatus": {
+        "kind": "done",
+        "text": "已完成：圖片與發送素材完成"
+      },
+      "copyStatus": {
+        "kind": "done",
+        "text": "已完成：文案、發送、上架完成"
+      },
+      "sendingStatus": {
+        "kind": "done",
+        "text": "已完成：正式發送完成"
+      },
+      "publishStatus": {
+        "kind": "done",
+        "text": "已完成：上架完成"
+      },
+      "owner": "孔星元",
+      "exception": "目前無異常紀錄",
+      "overallStatus": {
+        "kind": "done",
+        "text": "完成"
+      }
+    },
+    {
+      "month": 5,
+      "monthLabel": "5 月",
+      "folder": "協會演講/2026年/五月份",
+      "events": [
+        {
+          "date": "2026/05/07",
+          "month": 5,
+          "day": 7,
+          "type": "教練講座",
+          "speaker": "余忻頤",
+          "title": "社團法人中華國際NLP教練研究發展教育協會 理事",
+          "topic": "談錢說愛-夫妻財務溝通"
+        },
+        {
+          "date": "2026/05/21",
+          "month": 5,
+          "day": 21,
+          "type": "成功人士",
+          "speaker": "許馨尹",
+          "title": "法務部調查局屏東縣調查站 副主任",
+          "topic": "避免成為詐騙鏈的一環-「法律風險管理」"
+        }
+      ],
+      "topics": "教練講座：談錢說愛-夫妻財務溝通<br>成功人士：避免成為詐騙鏈的一環-「法律風險管理」",
+      "speakers": "余忻頤：社團法人中華國際NLP教練研究發展教育協會 理事<br>許馨尹：法務部調查局屏東縣調查站 副主任",
+      "imageStatus": {
+        "kind": "done",
+        "text": "已完成：圖片與發送素材完成"
+      },
+      "copyStatus": {
+        "kind": "done",
+        "text": "已完成：文案、發送、上架完成"
+      },
+      "sendingStatus": {
+        "kind": "done",
+        "text": "已完成：正式發送完成"
+      },
+      "publishStatus": {
+        "kind": "done",
+        "text": "已完成：上架完成"
+      },
+      "owner": "孔星元",
+      "exception": "目前無異常紀錄",
+      "overallStatus": {
+        "kind": "done",
+        "text": "完成"
+      }
+    },
+    {
+      "month": 6,
+      "monthLabel": "6 月",
+      "folder": "協會演講/2026年/六月份",
+      "events": [
+        {
+          "date": "2026/06/11",
+          "month": 6,
+          "day": 11,
+          "type": "教練講座",
+          "speaker": "陳昱萱",
+          "title": "社團法人中華國際NLP教練研究發展教育協會 理事",
+          "topic": "人生解題第一課：看懂責任歸屬，問對問題，人生就會開始有答案."
+        },
+        {
+          "date": "2026/06/25",
+          "month": 6,
+          "day": 25,
+          "type": "成功人士",
+          "speaker": "陳春秀",
+          "title": "1.9煙火公司負責人",
+          "topic": "點燃夢想的引信：如何將邊緣產業合法轉型背後的「煙火經營學」"
+        }
+      ],
+      "topics": "教練講座：人生解題第一課：看懂責任歸屬，問對問題，人生就會開始有答案.<br>成功人士：點燃夢想的引信：如何將邊緣產業合法轉型背後的「煙火經營學」",
+      "speakers": "陳昱萱：社團法人中華國際NLP教練研究發展教育協會 理事<br>陳春秀：1.9煙火公司負責人",
+      "imageStatus": {
+        "kind": "done",
+        "text": "已完成：圖片網址齊全"
+      },
+      "copyStatus": {
+        "kind": "done",
+        "text": "已完成：月預告、預告文、上線日通知"
+      },
+      "sendingStatus": {
+        "kind": "review",
+        "text": "待正式群組排程與發送"
+      },
+      "publishStatus": {
+        "kind": "review",
+        "text": "待上線日確認影片或連結"
+      },
+      "owner": "孔星元",
+      "exception": "目前無異常紀錄",
+      "overallStatus": {
+        "kind": "review",
+        "text": "待發送/上架"
+      }
+    },
+    {
+      "month": 7,
+      "monthLabel": "7 月",
+      "folder": "協會演講/2026年/七月份",
+      "events": [],
+      "topics": "「雙周講師SOP」目前尚未建立本月講座資料",
+      "speakers": "講師與頭銜待「雙周講師SOP」補齊",
+      "imageStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "copyStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "sendingStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "publishStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "owner": "孔星元",
+      "exception": "「雙周講師SOP」尚未建立本月資料",
+      "overallStatus": {
+        "kind": "empty",
+        "text": "未排定"
+      }
+    },
+    {
+      "month": 8,
+      "monthLabel": "8 月",
+      "folder": "協會演講/2026年/八月份",
+      "events": [],
+      "topics": "「雙周講師SOP」目前尚未建立本月講座資料",
+      "speakers": "講師與頭銜待「雙周講師SOP」補齊",
+      "imageStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "copyStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "sendingStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "publishStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "owner": "孔星元",
+      "exception": "「雙周講師SOP」尚未建立本月資料",
+      "overallStatus": {
+        "kind": "empty",
+        "text": "未排定"
+      }
+    },
+    {
+      "month": 9,
+      "monthLabel": "9 月",
+      "folder": "協會演講/2026年/九月份",
+      "events": [],
+      "topics": "「雙周講師SOP」目前尚未建立本月講座資料",
+      "speakers": "講師與頭銜待「雙周講師SOP」補齊",
+      "imageStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "copyStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "sendingStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "publishStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "owner": "孔星元",
+      "exception": "「雙周講師SOP」尚未建立本月資料",
+      "overallStatus": {
+        "kind": "empty",
+        "text": "未排定"
+      }
+    },
+    {
+      "month": 10,
+      "monthLabel": "10 月",
+      "folder": "協會演講/2026年/十月份",
+      "events": [],
+      "topics": "「雙周講師SOP」目前尚未建立本月講座資料",
+      "speakers": "講師與頭銜待「雙周講師SOP」補齊",
+      "imageStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "copyStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "sendingStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "publishStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "owner": "孔星元",
+      "exception": "「雙周講師SOP」尚未建立本月資料",
+      "overallStatus": {
+        "kind": "empty",
+        "text": "未排定"
+      }
+    },
+    {
+      "month": 11,
+      "monthLabel": "11 月",
+      "folder": "協會演講/2026年/十一月份",
+      "events": [],
+      "topics": "「雙周講師SOP」目前尚未建立本月講座資料",
+      "speakers": "講師與頭銜待「雙周講師SOP」補齊",
+      "imageStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "copyStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "sendingStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "publishStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "owner": "孔星元",
+      "exception": "「雙周講師SOP」尚未建立本月資料",
+      "overallStatus": {
+        "kind": "empty",
+        "text": "未排定"
+      }
+    },
+    {
+      "month": 12,
+      "monthLabel": "12 月",
+      "folder": "協會演講/2026年/十二月份",
+      "events": [],
+      "topics": "「雙周講師SOP」目前尚未建立本月講座資料",
+      "speakers": "講師與頭銜待「雙周講師SOP」補齊",
+      "imageStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "copyStatus": {
+        "kind": "empty",
+        "text": "尚未排定講座資料"
+      },
+      "sendingStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "publishStatus": {
+        "kind": "empty",
+        "text": "尚未排程"
+      },
+      "owner": "孔星元",
+      "exception": "「雙周講師SOP」尚未建立本月資料",
+      "overallStatus": {
+        "kind": "empty",
+        "text": "未排定"
+      }
+    }
+  ]
+}

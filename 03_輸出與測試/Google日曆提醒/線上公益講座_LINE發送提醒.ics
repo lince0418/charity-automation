@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//INLPCA//Public Lecture LINE Reminder//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:線上公益講座 LINE 發送提醒
+X-WR-TIMEZONE:Asia/Taipei
+BEGIN:VTIMEZONE
+TZID:Asia/Taipei
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:weekly-preview-20260608T180000-6-11-陳昱萱@inlpca-public-lecture
+DTSTAMP:20260528T150300
+DTSTART;TZID=Asia/Taipei:20260608T180000
+DTEND;TZID=Asia/Taipei:20260608T183000
+SUMMARY:LINE 發送：教練講座預告｜06/11（四）｜陳昱萱
+DESCRIPTION:活動日期：06/11（四）、文案類型：教練講座、講師：陳昱萱、主題：人生解題第一課：看懂責任歸屬，問對問題，人生就會開始有答案.、Canva：https://canva.link/cp96smnjxg00aid、Facebook：https://www.facebook.com/inlpca、資料夾：協會演講/2026年/六月份、請確認：文字、圖片文宣、LINE 社群身份或頭銜。、任務：今天 18:00 發送當週預告文字與圖片。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LINE 發送：教練講座預告｜06/11（四）｜陳昱萱
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LINE 發送：教練講座預告｜06/11（四）｜陳昱萱
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:publish-day-20260611T190000-6-11-陳昱萱@inlpca-public-lecture
+DTSTAMP:20260528T150300
+DTSTART;TZID=Asia/Taipei:20260611T190000
+DTEND;TZID=Asia/Taipei:20260611T193000
+SUMMARY:LINE 發送：上線日通知｜06/11（四）｜陳昱萱
+DESCRIPTION:活動日期：06/11（四）、文案類型：教練講座、講師：陳昱萱、主題：人生解題第一課：看懂責任歸屬，問對問題，人生就會開始有答案.、Canva：https://canva.link/cp96smnjxg00aid、Facebook：https://www.facebook.com/inlpca、資料夾：協會演講/2026年/六月份、請確認：文字、圖片文宣、LINE 社群身份或頭銜。、任務：今天 19:00 發送上線日通知文字與圖片。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LINE 發送：上線日通知｜06/11（四）｜陳昱萱
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LINE 發送：上線日通知｜06/11（四）｜陳昱萱
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:weekly-preview-20260622T180000-6-25-陳春秀@inlpca-public-lecture
+DTSTAMP:20260528T150300
+DTSTART;TZID=Asia/Taipei:20260622T180000
+DTEND;TZID=Asia/Taipei:20260622T183000
+SUMMARY:LINE 發送：成功人士預告｜06/25（四）｜陳春秀
+DESCRIPTION:活動日期：06/25（四）、文案類型：成功人士、講師：陳春秀、主題：點燃夢想的引信：如何將邊緣產業合法轉型背後的「煙火經營學」、Canva：https://canva.link/cp96smnjxg00aid、Facebook：https://www.facebook.com/inlpca、資料夾：協會演講/2026年/六月份、請確認：文字、圖片文宣、LINE 社群身份或頭銜。、任務：今天 18:00 發送當週預告文字與圖片。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LINE 發送：成功人士預告｜06/25（四）｜陳春秀
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LINE 發送：成功人士預告｜06/25（四）｜陳春秀
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:publish-day-20260625T190000-6-25-陳春秀@inlpca-public-lecture
+DTSTAMP:20260528T150300
+DTSTART;TZID=Asia/Taipei:20260625T190000
+DTEND;TZID=Asia/Taipei:20260625T193000
+SUMMARY:LINE 發送：上線日通知｜06/25（四）｜陳春秀
+DESCRIPTION:活動日期：06/25（四）、文案類型：成功人士、講師：陳春秀、主題：點燃夢想的引信：如何將邊緣產業合法轉型背後的「煙火經營學」、Canva：https://canva.link/cp96smnjxg00aid、Facebook：https://www.facebook.com/inlpca、資料夾：協會演講/2026年/六月份、請確認：文字、圖片文宣、LINE 社群身份或頭銜。、任務：今天 19:00 發送上線日通知文字與圖片。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LINE 發送：上線日通知｜06/25（四）｜陳春秀
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LINE 發送：上線日通知｜06/25（四）｜陳春秀
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:monthly-preview-20260531T190000-6@inlpca-public-lecture
+DTSTAMP:20260528T150300
+DTSTART;TZID=Asia/Taipei:20260531T190000
+DTEND;TZID=Asia/Taipei:20260531T193000
+SUMMARY:LINE 發送：6月月預告
+DESCRIPTION:任務：今天 19:00 發送 6 月月預告文字與圖片。、講師：陳昱萱、陳春秀、主題：人生解題第一課：看懂責任歸屬，問對問題，人生就會開始有答案.；點燃夢想的引信：如何將邊緣產業合法轉型背後的「煙火經營學」、Canva：https://canva.link/cp96smnjxg00aid、資料夾：協會演講/2026年/六月份、請確認：月預告圖、月預告文字、LINE 社群身份或頭銜。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:LINE 發送：6月月預告
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LINE 發送：6月月預告
+END:VALARM
+END:VEVENT
+END:VCALENDAR

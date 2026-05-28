@@ -1,0 +1,4 @@
+LINE_CHANNEL_ACCESS_TOKEN=貼上你的_Channel_access_token
+LINE_TO_ID=貼上你的_userId_或_groupId
+LINE_TEST_TEXT=公益講座 LINE 官方帳號測試訊息
+LINE_IMAGE_URL=

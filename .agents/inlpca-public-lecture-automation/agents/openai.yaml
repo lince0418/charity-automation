@@ -1,0 +1,8 @@
+interface:
+  display_name: "線上公益講座自動化"
+  short_description: "公益講座文案、Canva、Drive、LINE、日誌流程"
+  brand_color: "#0F766E"
+  default_prompt: "Use $inlpca-public-lecture-automation to run and verify the online public lecture automation workflow."
+
+policy:
+  allow_implicit_invocation: true

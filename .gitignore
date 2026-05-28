@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+.env
+.codex
+dist
+build
+
+02_自動化工具/line_env.txt
+自動化文檔產生/line_env.txt
